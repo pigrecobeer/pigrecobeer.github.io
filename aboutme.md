@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Chi siamo
-subtitle: noi siamo questi qua
+subtitle: π noi siamo questi qua
 ---
 
-Abbiamo scelto pigreco perchè abbiamo due nomi che cominciano per P.
+### Perchè π
+Abbiamo scelto π perchè abbiamo due nomi che cominciano per P.
 
 ### La nostra storia
 
