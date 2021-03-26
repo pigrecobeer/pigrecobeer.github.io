@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Chi siamo
+subtitle: noi siamo questi qua
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Abbiamo scelto pigreco perchè abbiamo due nomi che cominciano per P.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### La nostra storia
 
-What else do you need?
+Ci conosciamo da sempre. Abbiamo un sogno: rendere un il mondo un posto migliore.
+Qui sotto ci sono i nostri social:
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
