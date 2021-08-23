@@ -8,10 +8,9 @@ tags: [test]
 comments: false
 ---
 ### Birra fermentata in acciaio sapientemente temprato dalla classe operaia
-La nostra prima birra rappresenta anche la **__nostra idea di birra__**.
+La nostra prima birra rappresenta anche la **nostra idea di birra**.
 Abbiamo deciso di dedicare questa birra alla working class perchè pensiamo che la birra artigianale in italia stia diventando un prodotto d'élite e questo a noi non ci piace.
 
-### Notification
 
 {: .box-note}
 **Nota bene:** La nostra idea di birra è artigianale, popolare e di qualità ad un prezzo accessibile.
