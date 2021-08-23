@@ -8,6 +8,8 @@ tags: [WorkingClassBeer]
 comments: false
 ---
 ### Birra fermentata in acciaio sapientemente temprato dalla classe operaia!
+![working class ipa etichetta](https://github.com/pigrecobeer/pigrecobeer.github.io/blob/master/assets/img/WCI_etichetta_sito.png)
+
 La nostra prima birra rappresenta anche la **nostra idea di birra**.
 Abbiamo deciso di dedicare questa birra alla working class perchè pensiamo che la birra artigianale in italia stia diventando un prodotto d'élite e questo a noi non ci piace.
 
@@ -33,8 +35,6 @@ How about a yummy crepe?
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 It can also be centered!
-
-![Crepe](https://github.com/pigrecobeer/pigrecobeer.github.io/blob/master/assets/img/WCI_etichetta_sito.png){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
