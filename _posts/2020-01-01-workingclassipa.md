@@ -21,18 +21,5 @@ Abbiamo scelto di cominciare la nostra avventura con una IPA perchè il suo sapo
 ## Ingredienti:
 Acqua, malto d'orzo, luppolo e lievito.
 
-
-
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-Here's a code chunk:
-
+## Istruzioni:
+Conservare in un luogo fresco e asciutto, servire a 5° / 7°, **brindare al sol dell'avvenire**.
