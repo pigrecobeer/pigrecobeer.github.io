@@ -2,8 +2,6 @@
 layout: post
 title: Workig Class IPA
 subtitle: La nostra birra, le nostra nostra idea di birra artigianale
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [WorkingClassBeer]
 comments: false
 ---
