@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Workig Class IPA
+subtitle: La nostra birra, le nostra nostra idea di birra artigianale
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
+comments: false
 ---
+
+La nostra prima birra rappresenta anche la nostra idea di birra.
+Abbiamo deciso di dedicare questa birra alla working class perchè pensiamo che la birra artigianale in italia stia diventando un prodotto d'élite e questo a noi non ci piace.
+La nostra idea di birra è artigianale, popolare e di qualità ad un prezzo accessibile.
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
