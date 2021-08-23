@@ -23,4 +23,4 @@ Acqua, malto d'orzo, luppolo e lievito.
 
 ## Istruzioni:
 Conservare in un luogo fresco e asciutto, servire a 5° / 7°, **brindare al sol dell'avvenire**.
-![working class ipa etichetta](/assets/img/workingclassipa_brindisi.png)
+![working class ipa brindisi](/assets/img/workingclassipa_brindisi.png)
