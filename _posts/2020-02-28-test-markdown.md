@@ -4,7 +4,7 @@ title: Workig Class IPA
 subtitle: La nostra birra, le nostra nostra idea di birra artigianale
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [WorkingClassBeer]
 comments: false
 ---
 ### Birra fermentata in acciaio sapientemente temprato dalla classe operaia
@@ -13,10 +13,14 @@ Abbiamo deciso di dedicare questa birra alla working class perchè pensiamo che 
 
 
 {: .box-note}
-**Nota bene:** La nostra idea di birra è artigianale, popolare e di qualità ad un prezzo accessibile.
+**Nota bene:** La nostra idea di birra è **artigianale, popolare, di qualità e venduta ad un prezzo accessibile a tutti.**
 
 ## Perchè proprio una IPA?
-Abbiamo scelto di cominciare una IPA
+Abbiamo scelto di cominciare la nostra avventura con una IPA perchè il suo sapore amaro ci ricorda quanto dolce sarà il sol dell'avvenire. la sua gradazione alcolica è 5%.
+
+## Ingredienti:
+Acqua, malto d'orzo, luppolo e lievito.
+
 
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
